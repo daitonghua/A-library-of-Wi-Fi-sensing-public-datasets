@@ -5,9 +5,14 @@ Here's a collection of Wi-Fi sensing public datasets, which are useful for resea
 
 | dataset      | year | std | task | publication                                                                          | datasetlink                                                                                                               |
 | ------------ | ---- | --- | ---- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| WiMANS       | 2024 | n   | HAR  | [ACM](https://dl.acm.org/doi/10.1007/978-3-031-72946-1_5)                            | [github](https://github.com/huangshk/WiMANS)                                                                              |
+| BullyDetect  | 2024 | n   | HAR  | [IEEE](https://ieeexplore.ieee.org/document/10734315)                                | [github](https://github.com/aiotgroup/WiFi-BullyDetect)                                                                   |
+| XRF55        | 2024 | n   | HAR  | [ACM](https://dl.acm.org/doi/abs/10.1145/3643543)                                    | [site](https://aiotgroup.github.io/XRF55/)                                                                                |
 | SHARPax      | 2023 | ax  | HAR  | [IEEE](https://ieeexplore.ieee.org/document/10192291)                                | [IEEE dataport](https://ieee-dataport.org/documents/ieee-80211ax-csi-dataset-human-activity-recognition)                  |
 | ExpCSI       | 2023 | ax  | HAR  | [IEEE](https://ieeexplore.ieee.org/document/10099368)                                | [github](https://github.com/ansresearch/exposing-the-csi)                                                                 |
 | SiMWiSense   | 2023 | ac  | HAR  | [IEEE](https://ieeexplore.ieee.org/document/10195411)                                | [github](https://github.com/kfoysalhaque/SiMWiSense)                                                                      |
+| FallDeWideo  | 2023 | ?   | FD   | [ACM](https://dl.acm.org/doi/10.1145/3615984.3616501)                                | [github](https://github.com/shawnnn3di/falldewideo)                                                                       |
+| eHealth CSI  | 2023 | ?   | HAR  | [IEEE](https://ieeexplore.ieee.org/document/10177905)                                |                                                                                                                           |
 | SHARP        | 2022 | ac  | HAR  | [IEEE](https://ieeexplore.ieee.org/document/9804861)                                 | [github](https://github.com/francescamen/SHARP)                                                                           |
 | NTU-HAR      | 2022 | ?   | HAR  | [IEEE](https://ieeexplore.ieee.org/document/9667414)                                 | [github](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark)                                                          |
 | NTU-HumanID  | 2022 | ?   | HA   | [IEEE](https://ieeexplore.ieee.org/abstract/document/9726794)                        | [github](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark)                                                          |
@@ -23,5 +28,3 @@ Here's a collection of Wi-Fi sensing public datasets, which are useful for resea
 | CSIdifact    | 2019 | n   | HAR  | [ACM](https://dl.acm.org/doi/abs/10.1145/3359427.3361913)                            | [4TU](https://data.4tu.nl/articles/dataset/Channel_state_information_WiFi_traces_for_6_activities/12692816/1)             |
 | SignFi       | 2018 | n   | GR   | [ACM](https://dl.acm.org/doi/10.1145/3191755)                                        | [github](https://yongsen.github.io/SignFi/)                                                                               |
 | UT-HAR       | 2017 | n   | HAR  | [IEEE](https://ieeexplore.ieee.org/document/8067693)                                 | [github](https://github.com/ermongroup/Wifi_Activity_Recognition)                                                         |
-
-
